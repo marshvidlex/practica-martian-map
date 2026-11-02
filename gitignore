@@ -1,0 +1,11 @@
+# datos crudos pesados
+data/*
+!data/ .gitkeep
+
+# python
+__pycache__/
+.venv/
+*:__pycache__
+# sistema
+Thumbs.db
+.DS_Store
